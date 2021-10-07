@@ -29,6 +29,11 @@ icons de outras linguagens:
    <a href="https://www.instagram.com/hgoribeiro/">
    <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
   </a>
+  
+  <a href="https://www.linkedin.com/in/hugo-ribeiro-1b41b7125/">
+   <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" />  
+  </a>
+  
 </div>
   <p align=center> ____________________________ </p> 
 
